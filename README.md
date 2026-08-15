@@ -4,7 +4,7 @@ Show highlight markers on the scrollbar.
 
 ## Installation
 
-To install `scrollmap-highlight` search for [scrollmap-highlight](https://web.pulsar-edit.dev/packages/scrollmap-highlight) in the Install pane of the Pulsar settings or run `ppm install scrollmap-highlight`. Alternatively, you can run `ppm install asiloisad/pulsar-scrollmap-highlight` to install a package directly from the GitHub repository.
+To install `scrollmap-highlight` search for [scrollmap-highlight](https://web.pulsar-edit.dev/packages/scrollmap-highlight) in the Install pane of the Pulsar settings or run `ppm install scrollmap-highlight`. Alternatively, you can run `ppm install asiloisad-pulsar/scrollmap-highlight` to install a package directly from the GitHub repository.
 
 Layer package for [scrollmap](https://github.com/asiloisad-pulsar/scrollmap).
 
